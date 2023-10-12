@@ -3,7 +3,7 @@ Wav2Lip Deep Fake (Assignment1 for OpeninApp)
 
 ## Prerequisite
 
-- Please make sure you have enabled GPU runtime in Google Collab
+- Please make sure you have enabled T4 GPU runtime in Google Collab (top right drop-down next to RAM/DISK)
 
 - Drive link: https://drive.google.com/drive/folders/1L-v2coK1WISU6l5uTqDahA6Fe-H9YNK7?usp=sharing
 
